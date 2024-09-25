@@ -11,4 +11,4 @@
 
 - [mongoose](https://mongoosejs.com/) is orm-like (ODM) library which handles boilerplate and work easily
 - [moon modeler](https://www.datensen.com/data-modeling/moon-modeler-for-databases.html) is used to model database structure , this is paid and i do not have money to purchase it :(
-- using [easer io](https://app.eraser.io/) because there is free version available 
+- using [easer io](https://app.eraser.io/) because there is free version available
